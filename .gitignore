@@ -1,0 +1,4 @@
+/.idea/
+/ApiTesting.iml
+# Project exclude paths
+/target/
